@@ -25,6 +25,12 @@ Information System and Technology Undergraduate Student at Bandung Institute of 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23FFFFFF.svg?style=plastic&logo=unity&logoColor=black)
 
+### Skills:
+
+- Data Science (Data Analysis, Machine Learning, and Deep Learning)
+- Game Development (Unity)
+- Fullstack Development
+
 ## Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zeev-haydar&theme=tokyonight&border_radius=5&locale=ja&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
