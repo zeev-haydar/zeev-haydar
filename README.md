@@ -1,6 +1,7 @@
 # Hello There, Thanks for visiting my profile! 👋👋
 
-![Arona](https://github.com/ZeevHaydar/ZeevHaydar/assets/82465076/24061e11-ef49-4109-8292-ea39fb45c6c3)
+![Image](https://github.com/zeev-haydar/zeev-haydar/blob/32a0f82b8abbc4e59375cd1558ab27686d582788/GXd2FRWbwAMkSqZ.jpeg)
+
 
 ## About Me
 
