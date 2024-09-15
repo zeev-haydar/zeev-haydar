@@ -37,7 +37,6 @@ Still learning lot of things.
 ## Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zeev-haydar&theme=tokyonight&border_radius=5&locale=ja&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeev-haydar&show_icons=true&theme=dracula&locale=id)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeev-haydar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
