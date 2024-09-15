@@ -5,9 +5,9 @@
 
 ## About Me
 
-Information System and Technology Undergraduate Student at Bandung Institute of Technology
+Information System and Technology Undergraduate Student at Bandung Institute of Technology.
 My Roles in IT include Data Science, Game Development (Unity), and Software Engineering (Full-stack Web Developer).
-Still learning lot of things
+Still learning lot of things.
 
 ### Social:
 
