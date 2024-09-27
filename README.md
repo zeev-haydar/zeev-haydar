@@ -24,7 +24,7 @@ Still learning lot of things.
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![PyTorch](https://img.shields.io/badge/python-3670A0?style=plastic&logo=pytorch&logoColor=ee4c2c)
+![PyTorch](https://img.shields.io/badge/Pytorch-white?style=plastic&logo=pytorch&logoColor=ee4c2c)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23FFFFFF.svg?style=plastic&logo=unity&logoColor=black)
