@@ -37,6 +37,7 @@ Still learning lot of things.
 - Data Science (Data Analysis, SQL, Machine Learning, and Deep Learning)
 - Game Development (Unity)
 - Fullstack Development
+- IoT Engineering (Arduino)
 
 ## Github Stats
 
