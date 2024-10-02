@@ -35,7 +35,7 @@ Still learning lot of things.
 ### Skills:
 
 - Data Science (Data Analysis, SQL, Machine Learning, and Deep Learning)
-- Game Development (Unity)
+- Game Development (Unity Programmer, Audio Engineer, Audio Artist)
 - Fullstack Development
 - IoT Engineering (Arduino)
 
