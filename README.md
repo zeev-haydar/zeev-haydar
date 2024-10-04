@@ -36,7 +36,8 @@ Still learning lot of things.
 
 - Data Science (Data Analysis, SQL, Machine Learning, and Deep Learning)
 - Game Development (Unity Programmer, Audio Engineer, Audio Artist)
-- Fullstack Development
+- Full-stack Web Development
+- Mobile Development (Flutter & React Native)
 - IoT Engineering (Arduino)
 
 ## Github Stats
