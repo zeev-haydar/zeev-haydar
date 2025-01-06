@@ -1,7 +1,5 @@
 # Hello There, Thanks for visiting my profile! 👋👋
 
-<img src="https://github.com/zeev-haydar/zeev-haydar/blob/32a0f82b8abbc4e59375cd1558ab27686d582788/GXd2FRWbwAMkSqZ.jpeg" alt="Hikari" width=auto height=300 style="object-fit:contain;"/>
-
 ## About Me
 
 Information System and Technology Undergraduate Student at Bandung Institute of Technology.
