@@ -15,7 +15,7 @@ Still learning lot of things.
 - Finalist of Gemastik XVI 2023 IoT, Embedded System, and Smart Device (Worked as IoT Engineer and ML Engineer)
 - Finalist of Gemastik XVII 2024 Data Mining
 - Finalist of COMPFEST UI 16 Data Analytics Dash 2024
-- Finalist of COMPFEST UI 16 AI Innovation Challenge 2024 (Worked as an ML Engineer and Backend Engineer)
+- Finalist of COMPFEST UI 16 AI Innovation Challenge 2024 (Worked as an ML Engineer, Front-end and Back-end Developer)
 
 ## Experience and Skills
 
