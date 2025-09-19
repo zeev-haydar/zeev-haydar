@@ -10,13 +10,6 @@ Still learning lot of things.
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazhif-haidar-putra-wibowo/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nazhifhaidar/)
 ----------------------------------------------------------
-
-### Experiences and Achievements:
-- Finalist of Gemastik XVI 2023 IoT, Embedded System, and Smart Device (Worked as IoT Engineer and ML Engineer)
-- Finalist of Gemastik XVII 2024 Data Mining
-- Finalist of COMPFEST UI 16 Data Analytics Dash 2024
-- Finalist of COMPFEST UI 16 AI Innovation Challenge 2024 (Worked as an ML Engineer, Front-end and Back-end Developer)
-
 ## Experience and Skills
 
 ### Tech Stack:
@@ -37,6 +30,6 @@ Still learning lot of things.
 
 - Data Science (Data Analysis, SQL, Machine Learning, and Deep Learning)
 - Game Development (Unity Programmer, Audio Engineer, Audio Artist)
-- Full-stack Web Development
+- Full-stack Web Development (Mainly ReactJS)
 - Mobile Development (Flutter & React Native)
 - IoT Engineering (Arduino)
