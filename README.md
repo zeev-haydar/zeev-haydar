@@ -2,7 +2,7 @@
 
 ## About Me
 
-Information System and Technology Undergraduate Student at Bandung Institute of Technology.
+Music and Visual Art enthusiast. Mainly programming stuff, but also music producing as a hobby.
 I have experiences in Data Science, Game Development (Unity), and Software Engineering (Full-stack Web Developer).
 Still learning lot of things.
 
